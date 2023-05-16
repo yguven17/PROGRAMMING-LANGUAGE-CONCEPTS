@@ -1,0 +1,1 @@
+("8.8" tarm64osx ("821fc93cf75c3726565e37e538d72cdc3ca051ec" . "b248314a856f79564d5cdfd8b7bd43381384c7e6") #"/Users/yakupenesguven/Desktop/13_Spring_23/COMP301/Projects/Project3/project3MyProc/data-structures.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))
