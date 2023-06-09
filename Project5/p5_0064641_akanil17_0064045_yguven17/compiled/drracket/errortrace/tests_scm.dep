@@ -1,0 +1,1 @@
+("8.8" tarm64osx ("92f4556805831fc2c6a06768902a042749cfb329" . "253eaad6a03842295d1c6fdb7ad53d67c8ae8ccf") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"mzscheme" #"main.rkt"))
